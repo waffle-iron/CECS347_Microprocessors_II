@@ -1,1 +1,2 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/myko81/CECS347_Microprocessors_II.png?columns=all)](https://waffle.io/myko81/CECS347_Microprocessors_II?utm_source=badge)
 # CECS347_Microprocessors_II
